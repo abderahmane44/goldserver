@@ -8,8 +8,8 @@ function clean(text) {
         return text;
 }
 
-const prefix = "Your Prefix";
-const token = "Token Your Bot";
+const prefix = "-";
+const token = "NTU3OTU0OTUxNTE1NDcxODky.XKSC2Q.5oLwNNzM2zT4aV3EjOqe6VzLKyY";
 
 client.on("ready", () => {
   console.log("Vulnix | Logged in! Server count: ${client.guilds.size}");
